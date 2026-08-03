@@ -1,0 +1,13 @@
+/* Sam West Distributors Ltd */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f7f9fc;
+    color:#1b1b1b;
+}
